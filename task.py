@@ -1,0 +1,4 @@
+
+
+def firstrun():
+    return "success"
